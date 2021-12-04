@@ -33,7 +33,7 @@ body {
 Just add these tags into the `<head>` of your document:
 ```html
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/rfl890/inter@main/inter.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rfl890/inter@main/inter.min.css" integrity="sha512-/JwXVc8CHFcjIxsSOjyJiAzjW5CvCzgW/xaOXc1sDBkqELIUpjE9StWK+nyHoLmQSE+BwxObgRIMRFlZTXv8ow==" crossorigin="anonymous">
 ```
 Also, add this to your CSS styles, so the font weight displayes properly:   
 ```css
