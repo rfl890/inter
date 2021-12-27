@@ -38,6 +38,7 @@ Just add these tags into the `<head>` of your document:
 Also, add this to your CSS styles, so the font weight displayes properly:   
 ```css
 * {
+   font-style: normal !important;
    font-weight: normal !important;
   -webkit-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;  
